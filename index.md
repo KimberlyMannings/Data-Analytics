@@ -3,13 +3,15 @@ I specialise in assisting individuals and companies to choose the best data mode
 
 ![data analyst pic](https://user-images.githubusercontent.com/88218358/127726521-83f16619-2ff3-42f8-ad7b-48cf046ab344.jpg)
 
-### Models to be Evaluated
+### What problem do I solve?
 
-Logistic Regression Models is a binary classification algorithm used when the response variable is dichotomous (1 or 0). Linear Discriminant Analysis (LDA) which assumes that the covariance of the independent variables is equal across all classes.
+I use the dataset you provide along with your business problem or opportunity to help to choose the right data model for you! I use my knowlegede of algoritmns and how they perform. For example, Logistic Regression Models is a binary classification algorithm used when the response variable is dichotomous (1 or 0). Linear Discriminant Analysis (LDA) which assumes that the covariance of the independent variables is equal across all classes. I then use tools such as Jupyter Notebook in Python to perform an analysis.
 
 
 ```markdown
-Steps to follow
+What separates my business from other competitors?
+
+My services are easy, reliable, cost effective and I provide individualised support! All you need to do is:
 
 # Identify dataset to want to be analyzed 
 ## Write down what questions you need the analysis to answer
@@ -22,7 +24,7 @@ Steps to follow
 ```
 
 
-### Reports Used to Aid Analysis
+### Reports I Use to Aid My Analysis
 
 1. Pandas Report
 2. Classification Report
@@ -35,5 +37,5 @@ Steps to follow
 
 ![Standard reg](https://user-images.githubusercontent.com/88218358/127726302-f9c3fadd-84ca-456a-b7c8-25335e8d9005.png)
 
-### Full Presentation using the heartfailture.csv dataset
+### Proof of Previous Work using the heartfailture.csv dataset
 [Assignment 3 PPT.pptx](https://github.com/KimberlyMannings/Data-Analytics/files/6910577/Assignment.3.PPT.pptx)
