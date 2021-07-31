@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Welcome to the Data Model Evaluation Website!
+I specialise in assisting individuals and companies to choose the best data model for their dataset.
 
-You can use the [editor on GitHub](https://github.com/KimberlyMannings/Data-Analytics/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![data analyst pic](https://user-images.githubusercontent.com/88218358/127726521-83f16619-2ff3-42f8-ad7b-48cf046ab344.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Models to be Evaluated
 
-### Markdown
+Logistic Regression Models is a binary classification algorithm used when the response variable is dichotomous (1 or 0). Linear Discriminant Analysis (LDA) which assumes that the covariance of the independent variables is equal across all classes.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Steps to follow
 
-# Header 1
-## Header 2
-### Header 3
+# Identify dataset to want to be analyzed 
+## Write down what questions you need the analysis to answer
+### Leave the rest to me!
 
-- Bulleted
-- List
+- Python will be used to extract data and perform LDA and Logistical Regression.
+- Optimized LDA Model results will be compared to the Optimized Logistical Regression results
+- I will make reccommendations on which model is best for you to use!
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Reports Used to Aid Analysis
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KimberlyMannings/Data-Analytics/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. Pandas Report
+2. Classification Report
 
-### Support or Contact
+### Reports Samples:
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![optimized](https://user-images.githubusercontent.com/88218358/127726299-625d7a90-d09a-4a1f-88f1-a954abdf9fb7.png)
+
+![pandas profiling report](https://user-images.githubusercontent.com/88218358/127726301-228b0f95-e0f7-465e-af01-8d8ae0f6c081.png)
+
+![Standard reg](https://user-images.githubusercontent.com/88218358/127726302-f9c3fadd-84ca-456a-b7c8-25335e8d9005.png)
+
