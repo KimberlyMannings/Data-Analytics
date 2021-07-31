@@ -35,3 +35,5 @@ Steps to follow
 
 ![Standard reg](https://user-images.githubusercontent.com/88218358/127726302-f9c3fadd-84ca-456a-b7c8-25335e8d9005.png)
 
+### Full Presentation using the heartfailture.csv dataset
+[Assignment 3 PPT.pptx](https://github.com/KimberlyMannings/Data-Analytics/files/6910577/Assignment.3.PPT.pptx)
